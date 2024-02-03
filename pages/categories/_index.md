@@ -1,0 +1,6 @@
++++
+title = "Kategorie"
+
+url = "/categories"
+
++++

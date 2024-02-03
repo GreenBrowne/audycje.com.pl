@@ -1,0 +1,44 @@
+baseURL = "https://audycje.com.pl/"
+languageCode = "pl"
+title = "Fundacja Więcej Mądrości"
+theme = "PaperMod"
+
+[params]
+    showReadingTime = true
+    showBreadCrumbs = true
+    showPostNavLInks = true
+    showShareButtons = true
+
+[params.homeInfoParams]
+    Title= ""
+
+[params.cover]
+    linkFullImages = true
+    
+[[menu.main]]
+    name = "Regulamin"
+    url = "/regulamin/"
+    weight = 1
+    
+
+[[menu.main]]
+    name = "Kategorie"
+    url = "/categories/"
+    weight = 2
+
+[[menu.main]]
+    name = "Słowa Kluczowe"
+    url = "/tags/"
+    weight = 3
+
+[[menu.main]]
+    name = "Archiwum"
+    url = "/archives/"
+    weight = 4
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 5
+
+

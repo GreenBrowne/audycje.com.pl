@@ -1,0 +1,51 @@
++++
+title = "Archiwum audycji Co Jest Grane!" 
+layout = "single" 
+url = "/spisaudycji"
+
++++
+1. {{<audio COMMENTsrc="/shorts/CJG - Smętne życie emeryta 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Smętne życie emeryta - opublikowanej na łamach Innego Radia Głuchołazy w dniu 7 gru 2023">}}
+1. {{<audio COMMENTsrc="/shorts/CJG - Smętne życie emeryta 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Smętne życie emeryta - opublikowanej na łamach Innego Radia Głuchołazy w dniu 2 gru 2023">}}
+42. {{<audio COMMENTsrc="/shorts/CJG - Wszystko co powinieneś wiedzieć o zarobkach 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Wszystko co powinieneś wiedzieć o zarobkach - opublikowanej na łamach Innego Radia Głuchołazy w dniu 25 lis 2023">}}
+41. {{<audio COMMENTsrc="/shorts/CJG - Czy Warren Buffet gra na kryzys? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Czy Warren Buffet gra na kryzys? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 18 lis 2023">}}
+40. {{<audio COMMENTsrc="/shorts/CJG - Amber Gold i inne afery 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Amber Gold i inne afery - opublikowanej na łamach Innego Radia Głuchołazy w dniu 11 lis 2023">}}
+39. {{<audio COMMENTsrc="/shorts/CJG - Polaków męczą długi 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Polaków męczą długi - opublikowanej na łamach Innego Radia Głuchołazy w dniu 4 lis 2023">}}
+38. {{<audio COMMENTsrc="/shorts/CJG - Influencerzy. Nikt ich nie zatrzyma? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Influencerzy. Nikt ich nie zatrzyma? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 28 paź 2023">}}
+37. {{<audio COMMENTsrc="/shorts/CJG - Hamas i Izrael. Kto jest słoniem, a kto mrówką? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Hamas i Izrael. Kto jest słoniem, a kto mrówką? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 21 paź 2023">}}
+36. {{<audio COMMENTsrc="/shorts/CJG - Papierowe domy - chińska specjalność 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Papierowe domy - chińska specjalność - opublikowanej na łamach Innego Radia Głuchołazy w dniu 14 paź 2023">}}
+35. {{<audio COMMENTsrc="/shorts/CJG - Sankcje nie działają. Karmimy trolla 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Sankcje nie działają. Karmimy trolla - opublikowanej na łamach Innego Radia Głuchołazy w dniu 7 paź 2023">}}
+34. {{<audio COMMENTsrc="/shorts/CJG - Kiedy skończy się cud przy dystrybutorze? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Kiedy skończy się cud przy dystrybutorze? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 30 wrz 2023">}}
+33. {{<audio COMMENTsrc="/shorts/CJG - Porażające ceny prądu 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Porażające ceny prądu - opublikowanej na łamach Innego Radia Głuchołazy w dniu 23 wrz 2023">}}
+32. {{<audio COMMENTsrc="/shorts/CJG - Mieszkaniowe harakiri 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Mieszkaniowe harakiri - opublikowanej na łamach Innego Radia Głuchołazy w dniu 16 wrz 2023">}}
+31. {{<audio COMMENTsrc="/shorts/CJG - Wielka emigracja. Bilans zysków i strat 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Wielka emigracja. Bilans zysków i strat - opublikowanej na łamach Innego Radia Głuchołazy w dniu 9 wrz 2023">}}
+30. {{<audio COMMENTsrc="/shorts/CJG - Amerykański koszmar. A było tak ładnie… 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Amerykański koszmar. A było tak ładnie… - opublikowanej na łamach Innego Radia Głuchołazy w dniu 5 sie 2023">}}
+29. {{<audio COMMENTsrc="/shorts/CJG - Z tych długów nikt się nie wygrzebie 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Z tych długów nikt się nie wygrzebie - opublikowanej na łamach Innego Radia Głuchołazy w dniu 29 lip 2023">}}
+28. {{<audio COMMENTsrc="/shorts/CJG - Mieszkania dla młodych i bogatych 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Mieszkania dla młodych i bogatych - opublikowanej na łamach Innego Radia Głuchołazy w dniu 22 lip 2023">}}
+27. {{<audio COMMENTsrc="/shorts/CJG - Kim jest Mariusz Stefaniak? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Kim jest Mariusz Stefaniak? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 15 lip 2023">}}
+26. {{<audio COMMENTsrc="/shorts/CJG - Ostatnie tango Wagnera 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Ostatnie tango Wagnera - opublikowanej na łamach Innego Radia Głuchołazy w dniu 8 lip 2023">}}
+25. {{<audio COMMENTsrc="/shorts/CJG - Kiedy przyjdą zabrać Twój dom 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Kiedy przyjdą zabrać Twój dom - opublikowanej na łamach Innego Radia Głuchołazy w dniu 1 lip 2023">}}
+24. {{<audio COMMENTsrc="/shorts/CJG - Mieszkanie samowystarczalne - kiedy do tego dojdzie? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Mieszkanie samowystarczalne - kiedy do tego dojdzie? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 24 cze 2023">}}
+23. {{<audio COMMENTsrc="/shorts/CJG - Jak Orlen dodał sobie skrzydeł? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Jak Orlen dodał sobie skrzydeł? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 17 cze 2023">}}
+22. {{<audio COMMENTsrc="/shorts/CJG - Kto płaci za wojnę, kto na wojnie zarabia? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Kto płaci za wojnę, kto na wojnie zarabia? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 10 cze 2023">}}
+21. {{<audio COMMENTsrc="/shorts/CJG - Gorzki smak piwa z transwestytą 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Gorzki smak piwa z transwestytą - opublikowanej na łamach Innego Radia Głuchołazy w dniu 3 cze 2023">}}
+20. {{<audio COMMENTsrc="/shorts/CJG - Zjednoczone Emiraty Niemieckie 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Zjednoczone Emiraty Niemieckie - opublikowanej na łamach Innego Radia Głuchołazy w dniu 27 maj 2023">}}
+19. {{<audio COMMENTsrc="/shorts/CJG - Pożegnanie z węglem 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Pożegnanie z węglem - opublikowanej na łamach Innego Radia Głuchołazy w dniu 20 maj 2023">}}
+18. {{<audio COMMENTsrc="/shorts/CJG - Kto stoi za sztuczną inteligencją? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Kto stoi za sztuczną inteligencją? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 13 maj 2023">}}
+17. {{<audio COMMENTsrc="/shorts/CJG - Jastrząb z Narodowego 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Jastrząb z Narodowego - opublikowanej na łamach Innego Radia Głuchołazy w dniu 6 maj 2023">}}
+16. {{<audio COMMENTsrc="/shorts/CJG - Pańszczyzna to były całkiem dobre czasy 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Pańszczyzna to były całkiem dobre czasy - opublikowanej na łamach Innego Radia Głuchołazy w dniu 29 kwi 2023">}}
+15. {{<audio COMMENTsrc="/shorts/CJG - Podgryzają nas kurczaki z Ukrainy 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Podgryzają nas kurczaki z Ukrainy - opublikowanej na łamach Innego Radia Głuchołazy w dniu 22 kwi 2023">}}
+14. {{<audio COMMENTsrc="/shorts/CJG - Kiedy pieniądz traci sens 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Kiedy pieniądz traci sens - opublikowanej na łamach Innego Radia Głuchołazy w dniu 15 kwi 2023">}}
+13. {{<audio COMMENTsrc="/shorts/CJG - Sezon polowań na klasę średnią 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Sezon polowań na klasę średnią - opublikowanej na łamach Innego Radia Głuchołazy w dniu 8 kwi 2023">}}
+12. {{<audio COMMENTsrc="/shorts/CJG - Nieruchomości ruszyły ku przepaści 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Nieruchomości ruszyły ku przepaści - opublikowanej na łamach Innego Radia Głuchołazy w dniu 1 kwi 2023">}}
+11. {{<audio COMMENTsrc="/shorts/CJG - Najskrytsza tajemnica banków - ich śmierć 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Najskrytsza tajemnica banków - ich śmierć - opublikowanej na łamach Innego Radia Głuchołazy w dniu 25 mar 2023">}}
+10. {{<audio COMMENTsrc="/shorts/CJG - Banany się skończyły, teraz importujemy węgiel 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Banany się skończyły, teraz importujemy węgiel - opublikowanej na łamach Innego Radia Głuchołazy w dniu 18 mar 2023">}}
+09. {{<audio COMMENTsrc="/shorts/CJG - Metropolie powariowały 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Metropolie powariowały - opublikowanej na łamach Innego Radia Głuchołazy w dniu 11 mar 2023">}}
+08. {{<audio COMMENTsrc="/shorts/CJG - Samochody na baterie, baterie na węgiel 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Samochody na baterie, baterie na węgiel - opublikowanej na łamach Innego Radia Głuchołazy w dniu 4 mar 2023">}}
+07. {{<audio COMMENTsrc="/shorts/CJG - Robaki nas nakarmią 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Robaki nas nakarmią - opublikowanej na łamach Innego Radia Głuchołazy w dniu 25 lut 2023">}}
+06. {{<audio COMMENTsrc="/shorts/CJG - Węgiel w trybach gospodarki 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Węgiel w trybach gospodarki - opublikowanej na łamach Innego Radia Głuchołazy w dniu 18 lut 2023">}}
+05. {{<audio COMMENTsrc="/shorts/CJG - Biznes Syzyfów - małe i średnie firmy 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Biznes Syzyfów - małe i średnie firmy - opublikowanej na łamach Innego Radia Głuchołazy w dniu 11 lut 2023">}}
+04. {{<audio COMMENTsrc="/shorts/CJG - Syreni płacz dewelopera 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Syreni płacz dewelopera - opublikowanej na łamach Innego Radia Głuchołazy w dniu 5 lut 2023">}}
+03. {{<audio COMMENTsrc="/shorts/CJG - Woke - w oparach absurdu 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Woke - w oparach absurdu - opublikowanej na łamach Innego Radia Głuchołazy w dniu 28 sty 2023">}}
+02. {{<audio COMMENTsrc="/shorts/CJG - Jak stracić 400 miliardów dolarów? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Jak stracić 400 miliardów dolarów? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 21 sty 2023">}}
+01. {{<audio COMMENTsrc="/shorts/CJG - Drugi rok wojny, trzeci rok pandemii. Co dalej? 1.mp3" caption="Pierwsza z trzech częśi audycji CJG - Drugi rok wojny, trzeci rok pandemii. Co dalej? - opublikowanej na łamach Innego Radia Głuchołazy w dniu 14 sty 2023">}}
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/posts/audycja/</loc>
+    <lastmod>2023-11-04T17:34:31+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2023-11-04T17:34:31+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2023-11-04T17:34:31+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/second/</loc>
+    <lastmod>2023-11-04T14:15:21+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+    <lastmod>2023-11-03T20:37:54+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/css/</loc>
+    <lastmod>2023-11-03T20:37:54+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/first/</loc>
+    <lastmod>2023-11-03T20:37:54+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/html/</loc>
+    <lastmod>2023-11-03T20:37:54+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2023-11-03T20:37:54+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/tech/</loc>
+    <lastmod>2023-11-03T20:37:54+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/archives/</loc>
+  </url>
+</urlset>

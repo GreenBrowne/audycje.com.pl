@@ -12,7 +12,7 @@ weight: 1
 ---
 ## Witamy Słuchaczy. Witamy Czytelników!
 
-#### Najbogatsi ludzie świata wiedzą że, najlepszą inwestycją jest inwestycja w wiedzę! Zrób to z pieniędzy urzędników i polityków! Brzmi ciekawie? To zapraszamy do tego artykułu!
+### Najbogatsi ludzie świata wiedzą że, najlepszą inwestycją jest inwestycja w wiedzę! Zrób to z pieniędzy urzędników i polityków! Brzmi ciekawie? To zapraszamy do tego artykułu!
 
 Od roku dzielimy się z Państwem wiedzą ekonomiczną na antenie "Innego Radia", a ostatnio także w Internecie na platformie audycje.com.pl. 
 Na naszym portalu możecie Państwo znaleźć najnowsze wyemitowane tam rozmowy, prowadzone przez red. Krzysztofa Strauchmana  z Mariuszem Stefaniakiem, prezesem Fundacji „Więcej Mądrości”. Dodatkowo tylko tutaj, w Internecie, zamieszczamy także odnośniki do inspirujących materiałów, nasze komentarze i dodatkowe materiały.
@@ -27,8 +27,9 @@ Nasza Fundacja, jest organizacją non-profit. Nie jest nastawiona na generowanie
 _Jako ekonomista nie wyciągam ręki po pieniądze, jeśli nie mam w zamian czegoś wartościowego do zaoferowania – mówi Mariusz Stefaniak, prezes Fundacji „Więcej Mądrości”, ekspert ekonomiczny i finansowy, autor wywiadów radiowych. - Zamiast prosić o wsparcie, jak czyni większość podmiotów, chcemy dać Państwu możliwość DARMOWEGO poszerzania swojej wiedzy, a przy okazji także naszej działalności. I to za pieniądze, jakie poszłyby do kieszeni polityków i urzędników. Zatem masz szansę wyrwać swoje pieniądze z łap polityków i skierować, tam gdzie Ty z nich skorzystasz._
 
 <br>
+<br>
 
-### Co da Państwo wsparcie naszej Fundacji?
+### Co da Państwu wsparcie naszej Fundacji?
 
 Osoby, które do końca roku kalendarzowego 2024 przekażą dowolną darowiznę dla Fundacji „Więcej Mądrości”, otrzymają dodatkowe materiały informacyjne, edukacyjne i opiniotwórcze, wykraczające poza ramy audycji radiowych.
 
@@ -76,6 +77,7 @@ Przekazanie wsparcia **do końca roku kalendarzowego** jest dla Państwa najkorz
 Oczywiście możecie Państwo przekazać DOWOLNĄ darowiznę w DOWOLNYM czasie, aby wesprzeć naszą działalność, jednak wtedy na zwrot trzeba będzie poczekać do kolejnego rozliczenia podatkowego.
 
 <br>
+<br>
 
 ### Jak przekazać darowiznę wybranej organizacji?
 
@@ -101,7 +103,7 @@ W mailu prosimy podać **imię i nazwisko osoby wpłacającej lub numeru kontakt
 Po zweryfikowaniu czy wpłata danej osoby trafiła na konto Fundacji, przekażemy zwrotnie informacje z dostępem z dodatkowymi materiałami o jakich mowa w odpowiednim progu.
 
 <br>
- 
+<br>
 
 ### Jak uzyskać zwrot podatku?
 
@@ -116,6 +118,7 @@ _Przykładowo, przy dochodzie na poziomie 40 000 zł naliczony maksymalny datek,
 Może przyda Ci się [kalkulator dla Filantropów](https://ceeimpact.org/calculator-pl/)
 
 <br> 
+<br>
 
 ### Jak wypełnić PIT, by skorzystać z ulgi podatkowej?
 
@@ -140,6 +143,7 @@ Możliwe są płatności internetowe (kartą, BLIK, PayPal, szybkie przelewy z b
 Jeśli podczas przekazywania darowizny skorzystano z płatności online (za pomocą bankowości elektronicznej, kartą lub kodem BLIK), to oprócz dowodu zapłaty z banku niezbędne jest potwierdzenie darowizn Fundacji, gdyż na dowodzie wpłaty widoczne są dane pośrednika płatności (PayU, Dotpay, PayPal lub Krajowy Integrator Płatności), a nie Fundacji.
 
 <br>
+<br>
 
 ### Podstawa prawna i przepisy, na podstawie których masz prawo do odliczenia poniesionych darowizn:
 
@@ -149,6 +153,7 @@ Jeśli podczas przekazywania darowizny skorzystano z płatności online (za pomo
 4. <https://darowizny.ngo.pl/strefa-darczyncy-dowiedz-sie/jak-mozesz-odliczyc-darowizne-dla-organizacji-pozarzadowej-od-podatku>
 
 
+<br>
 <br>
 
 ### Jak otrzymać prezent z wiedzy ekonomicznej?

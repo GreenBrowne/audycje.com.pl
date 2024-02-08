@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Dajmy sobie prezent na Gwiazdkę!
+title: Dajmy sobie prezent!
 date: '2023-12-02T07:29:00+01:00'
 tags:
   - Poradniki
@@ -12,7 +12,7 @@ weight: 1
 ---
 ## Witamy Słuchaczy. Witamy Czytelników!
 
-#### Najbogatsi ludzie świata wiedzą że, najlepszą inwestycją jest inwestycja w wiedzę! Zrób jak oni - w te święta spraw sobie i swojej rodzinie prezent wiedzy ekonomicznej. A co najlepsze: kupisz to z pieniędzy urzędników i polityków! Brzmi ciekawie? To zapraszamy do tego artykułu!
+#### Najbogatsi ludzie świata wiedzą że, najlepszą inwestycją jest inwestycja w wiedzę! Zrób to z pieniędzy urzędników i polityków! Brzmi ciekawie? To zapraszamy do tego artykułu!
 
 Od roku dzielimy się z Państwem wiedzą ekonomiczną na antenie "Innego Radia", a ostatnio także w Internecie na platformie audycje.com.pl. 
 Na naszym portalu możecie Państwo znaleźć najnowsze wyemitowane tam rozmowy, prowadzone przez red. Krzysztofa Strauchmana  z Mariuszem Stefaniakiem, prezesem Fundacji „Więcej Mądrości”. Dodatkowo tylko tutaj, w Internecie, zamieszczamy także odnośniki do inspirujących materiałów, nasze komentarze i dodatkowe materiały.
@@ -30,7 +30,7 @@ _Jako ekonomista nie wyciągam ręki po pieniądze, jeśli nie mam w zamian czeg
 
 ### Co da Państwo wsparcie naszej Fundacji?
 
-Osoby, które do końca roku kalendarzowego 2023 przekażą dowolną darowiznę dla Fundacji „Więcej Mądrości”, otrzymają dodatkowe materiały informacyjne, edukacyjne i opiniotwórcze, wykraczające poza ramy audycji radiowych.
+Osoby, które do końca roku kalendarzowego 2024 przekażą dowolną darowiznę dla Fundacji „Więcej Mądrości”, otrzymają dodatkowe materiały informacyjne, edukacyjne i opiniotwórcze, wykraczające poza ramy audycji radiowych.
 
 Poza satysfakcją, że **udało Ci się wyjąć z kieszeni polityków i urzędników swoje pieniądze**, oferujemy:
 
@@ -153,7 +153,7 @@ Jeśli podczas przekazywania darowizny skorzystano z płatności online (za pomo
 
 ### Jak otrzymać prezent z wiedzy ekonomicznej?
 
-1. Dokonaj przelewu do końca 2023 r. w wielkości pasującej do Twojej ulgi i wybranego progu wsparcia, instrukcje jej wyliczania są podane powyżej, jeśli masz wątpliwości lub pytania - zapraszamy do kontaktu! Dane kontaktowe dostępne są tutaj <https://audycje.com.pl/kontakt/>  
+1. Dokonaj przelewu do końca 2024 r. w wielkości pasującej do Twojej ulgi i wybranego progu wsparcia, instrukcje jej wyliczania są podane powyżej, jeśli masz wątpliwości lub pytania - zapraszamy do kontaktu! Dane kontaktowe dostępne są tutaj <https://audycje.com.pl/kontakt/>  
 W wiadomości prosimy zamieścić swój adres email lub numer telefonu, abyśmy mogli przekazać instrukcję dostępu.  
 **Uwaga! Urzędowo data uznania przelewu to zawsze data wpływu a nie data wysłania przelewu zatem nie czekaj do ostatniej chwili!**  
 

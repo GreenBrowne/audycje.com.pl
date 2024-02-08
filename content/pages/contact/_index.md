@@ -1,5 +1,7 @@
 ---
+title = "Kontakt" 
 layout: 'contact_form'
+url = "/kontakt"
 
 ---
 

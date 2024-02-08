@@ -94,7 +94,7 @@ W przypadku Fundacji „Więcej Mądrości”  jest to **66 2530 0008 2052 1060 
 Możliwe są płatności internetowe (kartą, BLIK, PayPal, szybkie przelewy z banku).
 
 Po dokonaniu darowizny prosimy skontaktuj się z naszą Fundacją poprzez formularz kontaktowy:
-<https://audycje.com.pl/contact/>.
+<https://audycje.com.pl/kontakt/>.
 
 W mailu prosimy podać **imię i nazwisko osoby wpłacającej lub numeru kontaktowy** do siebie, aby ktoś z naszych współpracowników mógł się z Państwem skontaktować.
 
@@ -153,12 +153,12 @@ Jeśli podczas przekazywania darowizny skorzystano z płatności online (za pomo
 
 ### Jak otrzymać prezent z wiedzy ekonomicznej?
 
-1. Dokonaj przelewu do końca 2023 r. w wielkości pasującej do Twojej ulgi i wybranego progu wsparcia, instrukcje jej wyliczania są podane powyżej, jeśli masz wątpliwości lub pytania - zapraszamy do kontaktu! Dane kontaktowe dostępne są tutaj <https://audycje.com.pl/contact/>  
+1. Dokonaj przelewu do końca 2023 r. w wielkości pasującej do Twojej ulgi i wybranego progu wsparcia, instrukcje jej wyliczania są podane powyżej, jeśli masz wątpliwości lub pytania - zapraszamy do kontaktu! Dane kontaktowe dostępne są tutaj <https://audycje.com.pl/kontakt/>  
 W wiadomości prosimy zamieścić swój adres email lub numer telefonu, abyśmy mogli przekazać instrukcję dostępu.  
 **Uwaga! Urzędowo data uznania przelewu to zawsze data wpływu a nie data wysłania przelewu zatem nie czekaj do ostatniej chwili!**  
 
 2. Skontaktuj się z naszą Fundacją poprzez formularz kontaktowy:
-<https://audycje.com.pl/contact/>
+<https://audycje.com.pl/kontakt/>
  - korzystając z gotowego formularza na stronie, lub
  - wysyłając do nas email, na adres podany w linku powyżej.
 

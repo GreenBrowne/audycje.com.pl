@@ -1,6 +1,6 @@
 ---
 title = "Kontakt" 
-layout: 'contact_form'
+layout = 'contact_form'
 url = "/kontakt"
 
 ---

@@ -11,9 +11,6 @@ tags:
 categories:
   - Co Jest Grane
 ---
-### Audycja Radiowa z dn. 2024.01.13
-
-## Tytuł
 
 Wprowadzenie
 
@@ -86,6 +83,3 @@ Wprowadzenie
 
 <br>
 <br>
-
-{{< paypal button_id="UTYL7PUMRCQ48" >}}
-{{< buycoffe button_id="/adrianjablo" >}}

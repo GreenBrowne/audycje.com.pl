@@ -80,6 +80,3 @@ Wprowadzenie
 ### Zapraszam do odsłuchania audycji!
 
 {{<audio src="audio/CJG_51_2024_01_27.mp3" caption="Zapis audycji CJG, publikowanej na łamach Innego Radia Głuchołazy w dniu 13 stycznia 2024">}}
-
-<br>
-<br>

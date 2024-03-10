@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Zapowiedź audycji na 9 marca 2024
+title: Zapowiedź audycji na 16 marca 2024
 date: '2023-11-10T23:04:27+01:00'
 tags:
   - audycje
@@ -8,10 +8,10 @@ categories:
   - Co Jest Grane
 weight: 2
 ---
-## Bitcoin i kryptowaluty
+## Edukacja sukcesu
 
-Jeszcze kilka lat temu o Bitcoinie można było usłyszeć tylko od entuzjastów technologii głęboko zaangażowanych w rozwój najświeższych nowinek. Dzisiaj kryptowaluty są już na ustach zwykłych ludzi, inwestorów, urzędników i polityków.
+Wiedza to klucz do sukcesu. Lecz jak edukacja ma się do wiedzy? Czy kupiony dyplom uczelni wyższej może dać nam przewagę na rynku pracy i w biznesie?
 
-Czym jest Bitcoin? Jak się go pozyskuje? Jakimi prawami kieruje się rynek kryptowalut? Kto go za tym wszystkim stoi i do czego posłużyć może technologia Blockchain opowie nam nasz cotygodniowy gośc - Mariusz Stefaniak - ekspert do spraw ekonomii i finansów. Redaktor Krzysztof Strauchmann wyciągnie z niego najciekawsze informacje i razem przedstawią Państwu wiedzę, której brakuje większości "inwestorów". 
+O edukacji, wiedzy, aferze związanej z Collegium Humanum i wartości kreatywnej myśli opowie nam nasz ekspert - Mariusz Stefaniak, z wszystkich tych tematów wypyta go jak zawsze nasz redaktor - Krzysztof Strauchmann!
 
-Zapraszamy do odsłuchania audycji w weekend 9 i 10 marca, o godzinie 10:30 na łamach Innego Radia Głuchołazy, 105.2FM!
+Zapraszamy do odsłuchania audycji w weekend 16 i 17 marca, o godzinie 10:30 na łamach Innego Radia Głuchołazy, 105.2FM!

@@ -1,33 +1,26 @@
 {{- with site.Params.homeInfoParams }}
 <article class="first-entry home-info">
     <header class="entry-header">
-	<h1>Witajcie słuchacze "Innego Radia" oraz audycji "Co jest grane Panie Mariuszu?"</h1>
-		
+		<center>
+			<h1>Co Jest Grane, Panie Mariuszu?</h1>
+			<h1><a href="https://audycje.com.pl/posts/dajmy-sobie-prezent/">-Wsparcie Fundacji-</a></h1>	
+			<h1><a href="https://www.audycje.com.pl/regulamin">-Regulamin-</a></h1>
+		</center>
     </header>
+
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
     <footer class="entry-footer">
-		
+		<center>
         {{ partial "social_icons.html" site.Params.socialIcons }}
-
-		<h2>Specjalna oferta wiedzy i unikatowa możliwość wsparcia Fundacji! <a href="https://audycje.com.pl/posts/dajmy-sobie-prezent/">->kliknij w link<-</a></h2>	
-		<br>
-	    
-	    <h2>Korzystając z naszej strony, zobowiązujesz się do przestrzegania Regulaminu. <a href="https://www.audycje.com.pl/regulamin">->kliknij w link<-</a></h2>
-		<br>	    	
-	    	
 	    <h2>Inne Radio Głuchołazy, 105.2 FM!</h2>
-	   	<br>
- 		<!---
+		
 		<audio controls="controls">
 		<source src="http://stream4.nadaje.com:8386/test" type="audio/mpeg">
 		</audio>
-		
-		Lokalnie działa, na serwerze juz nie
-		--->
-	    	<br>
-	    
+		</center>
+		  
     </footer>
 </article>
 {{- end -}}

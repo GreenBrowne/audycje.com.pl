@@ -12,8 +12,7 @@ categories:
   - Co Jest Grane
 ---
 
-![CJG_66_2024_05_18](/uploads/CJG_66_2024_05_18.jpg)
-źródło: Izera
+![źródło: Izera](/uploads/CJG_66_2024_05_18.jpg)
 
 Wprowadzenie
 

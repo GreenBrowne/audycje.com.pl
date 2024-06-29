@@ -86,4 +86,4 @@ Wprowadzenie
 <br>
 
 ### Zapraszamy do wsparcia fundacji!
-O tym jak to zrobić, dowiedzą się Państwo tutaj - [link](https://audycje.com.pl/posts/dajmy-sobie-prezent/)
+O tym jak to zrobić, dowiedzą się Państwo tutaj - [link](https://audycje.com.pl/posts/wsparcie/)

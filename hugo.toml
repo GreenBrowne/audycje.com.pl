@@ -16,19 +16,23 @@ theme = "PaperMod"
     linkFullImages = true
     
 [[menu.main]]
+    name = "Wsparcie"
+    url = "/wsparcie/"
+    weight = 0
+
+[[menu.main]]
+    name = "YouTube"
+    url = "https://www.youtube.com/@audycjecompl"
+    weight = 1
+
+[[menu.main]]
     name = "Regulamin"
     url = "/regulamin/"
-    weight = 1
-    
+    weight = 2
 
 [[menu.main]]
     name = "Kategorie"
     url = "/categories/"
-    weight = 2
-
-[[menu.main]]
-    name = "Słowa Kluczowe"
-    url = "/tags/"
     weight = 3
 
 [[menu.main]]
@@ -41,4 +45,7 @@ theme = "PaperMod"
     url = "/kontakt/"
     weight = 5
 
-
+#[[menu.main]]
+#    name = "Słowa Kluczowe"
+#    url = "/tags/"
+#    weight = 3

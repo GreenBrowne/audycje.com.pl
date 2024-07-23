@@ -44,8 +44,3 @@ theme = "PaperMod"
     name = "Kontakt"
     url = "/kontakt/"
     weight = 5
-
-#[[menu.main]]
-#    name = "Słowa Kluczowe"
-#    url = "/tags/"
-#    weight = 3

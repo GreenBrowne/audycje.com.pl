@@ -31,8 +31,8 @@ theme = "PaperMod"
     weight = 2
 
 [[menu.main]]
-    name = "Kategorie"
-    url = "/categories/"
+    name = "Słowa Kluczowe"
+    url = "/tags/"
     weight = 3
 
 [[menu.main]]

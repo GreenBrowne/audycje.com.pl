@@ -16,9 +16,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <!-- iTunes specific elements -->
-    <itunes:image href="static/light_in_darkness_cropped.jpg" />
+    <itunes:image href="https://audycje.com.pl/img/light_in_darkness_cropped.jpg" />
     <itunes:author>Fundacja Więcej Mądrości</itunes:author>
-    <itunes:email>audycje.com.pl@gmail.com</itunes:email>
+    <itunes:owner>
+      <itunes:name>Fundacja Więcej Mądrości</itunes:name>
+      <itunes:email>audycje.com.pl@gmail.com</itunes:email>
+    </itunes:owner>
  
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>

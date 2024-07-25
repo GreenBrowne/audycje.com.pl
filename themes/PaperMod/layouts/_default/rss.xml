@@ -1,21 +1,30 @@
 {{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = site }}{{- end -}}
+{{- if .IsHome -}}
+  {{ $pctx = site }}
+{{- end -}}
 {{- $pages := slice -}}
 {{- if or $.IsHome $.IsSection -}}
-{{- $pages = $pctx.RegularPages -}}
+  {{- $pages = $pctx.RegularPages -}}
 {{- else -}}
-{{- $pages = $pctx.Pages -}}
+  {{- $pages = $pctx.Pages -}}
 {{- end -}}
 {{- $limit := site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
-{{- $pages = $pages | first $limit -}}
+  {{- $pages = first $limit $pages -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>{{ if eq  .Title  site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
+    <!-- iTunes specific elements -->
+    <itunes:image href="static/light_in_darkness_cropped.jpg" />
+    <itunes:owner>
+      <itunes:email>audycje.com.pl@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fundacja Więcej Mądrości</itunes:author>
+
+    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne  .Title  site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ site.Title }}</description>
+    <description>Ostatnie publikacje {{ if ne .Title site.Title }}{{ with .Title }}{{.}} {{ end }}{{ end }}{{ site.Title }}</description>
     {{- with site.Params.images }}
     <image>
       <title>{{ site.Title }}</title>

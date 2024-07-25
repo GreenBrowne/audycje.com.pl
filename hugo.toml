@@ -8,9 +8,6 @@ theme = "PaperMod"
     showBreadCrumbs = true
     showPostNavLInks = true
     showShareButtons = true
-    podcastImage = "/img/light_in_darkness_cropped.jpg"
-    podcastAuthor = "Fundacja Więcej Mądrości"
-    podcastEmail = "audycje.com.pl@gmail.com"
 
 [params.homeInfoParams]
     Title= ""

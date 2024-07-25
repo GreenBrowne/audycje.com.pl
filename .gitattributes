@@ -1,0 +1,5 @@
+# Ustawienie końców linii w stylu Unix dla plików tekstowych
+* text=auto
+
+# Ustawienie końców linii w stylu Windows dla plików HTML
+*.html text eol=crlf

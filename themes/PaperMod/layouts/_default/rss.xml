@@ -17,11 +17,9 @@
   <channel>
     <!-- iTunes specific elements -->
     <itunes:image href="static/light_in_darkness_cropped.jpg" />
-    <itunes:owner>
-      <itunes:email>audycje.com.pl@gmail.com</itunes:email>
-    </itunes:owner>
     <itunes:author>Fundacja Więcej Mądrości</itunes:author>
-
+    <itunes:email>audycje.com.pl@gmail.com</itunes:email>
+ 
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
     <description>Ostatnie publikacje {{ if ne .Title site.Title }}{{ with .Title }}{{.}} {{ end }}{{ end }}{{ site.Title }}</description>

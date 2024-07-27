@@ -16,31 +16,31 @@ theme = "PaperMod"
     linkFullImages = true
     
 [[menu.main]]
-    name = "Wsparcie"
-    url = "/posts/wsparcie/"
-    weight = 0
-
-[[menu.main]]
     name = "YouTube"
     url = "https://www.youtube.com/@audycjecompl"
     weight = 1
+   
+[[menu.main]]
+    name = "Spotify"
+    url = "https://open.spotify.com/show/08FcBlirC3jK86DzNfVC83"
+    weight = 2    
 
 [[menu.main]]
-    name = "Regulamin"
-    url = "/regulamin/"
-    weight = 2
+    name = "Apple Podcast"
+    url = ""
+    weight = 3
 
 [[menu.main]]
     name = "Słowa Kluczowe"
     url = "/tags/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Archiwum"
     url = "/archives/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Kontakt"
     url = "/kontakt/"
-    weight = 5
+    weight = 6

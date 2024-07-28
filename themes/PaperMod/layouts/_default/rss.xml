@@ -19,14 +19,14 @@
     <itunes:image href="https://audycje.com.pl/img/rss-logo.png" />
     <itunes:author>Fundacja Więcej Mądrości</itunes:author>
     <itunes:owner>
-      <itunes:name>Fundacja Więcej Mądrości</itunes:name>
+      <itunes:name>audycje.com.pl</itunes:name>
       <itunes:email>audycje.com.pl@gmail.com</itunes:email>
     </itunes:owner>
  
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
     <description>Ostatnie publikacje {{ if ne .Title site.Title }}{{ with .Title }}{{.}} {{ end }}{{ end }}{{ site.Title }}</description>
-    <itunes:summary>Ostatnie publikacje Fundacja Więcej Mądrości</itunes:summary>
+    <itunes:summary>Co Jest Grane, Panie Mariuszu?</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:explicit>no</itunes:explicit>
     {{- with site.Params.images }}

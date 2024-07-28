@@ -20,15 +20,15 @@ theme = "PaperMod"
     url = "https://www.youtube.com/@audycjecompl"
     weight = 1
    
-[[menu.main]]
-    name = "Spotify"
-    url = "https://open.spotify.com/show/08FcBlirC3jK86DzNfVC83"
-    weight = 2    
-
-[[menu.main]]
-    name = "Apple Podcast"
-    url = ""
-    weight = 3
+#[[menu.main]]
+#    name = "Spotify"
+#    url = "https://open.spotify.com/show/08FcBlirC3jK86DzNfVC83"
+#    weight = 2    
+#
+#[[menu.main]]
+#    name = "Apple Podcast"
+#    url = ""
+#    weight = 3
 
 [[menu.main]]
     name = "Słowa Kluczowe"

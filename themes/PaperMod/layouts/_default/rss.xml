@@ -24,7 +24,7 @@
     </itunes:owner>
     <itunes:title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</itunes:title>
     <language>pl</language>
-    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
+    <title>audycje.com.pl</title>
     <link>{{ .Permalink }}</link>
     <description>Ostatnie publikacje {{ if ne .Title site.Title }}{{ with .Title }}{{.}} {{ end }}{{ end }}{{ site.Title }}</description>
     <itunes:summary>Co Jest Grane, Panie Mariuszu?</itunes:summary>

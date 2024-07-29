@@ -22,7 +22,8 @@
       <itunes:name>audycje.com.pl</itunes:name>
       <itunes:email>audycje.com.pl@gmail.com</itunes:email>
     </itunes:owner>
- 
+    <itunes:title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</itunes:title>
+    <language>pl</language>
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
     <description>Ostatnie publikacje {{ if ne .Title site.Title }}{{ with .Title }}{{.}} {{ end }}{{ end }}{{ site.Title }}</description>
@@ -48,16 +49,24 @@
     {{ range $pages }}
     {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
     <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with site.Author.email }}<author>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</author>{{end}}
-      <guid>{{ .Permalink }}</guid>
-      <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
-      {{- if site.Params.ShowFullTextinRSS }}
-      <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
-      {{- end }}
+    <title>{{ .Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+    {{ with site.Author.email }}<author>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</author>{{end}}
+    <guid>{{ .Permalink }}</guid>
+    <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
+    {{- if site.Params.ShowFullTextinRSS }}
+    <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
+    {{- end }}
+    {{- $segments := split .Permalink "/" -}}
+    {{- $filename := index $segments (sub (len $segments) 2) -}}
+    <enclosure  
+    url="https://audycje.com.pl/audio/LONG%20{{ $filename }}.mp3" 
+    length="26590353" 
+    type="audio/mpeg" 
+    />
     </item>
+
     {{- end }}
     {{ end }}
   </channel>

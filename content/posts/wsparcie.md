@@ -8,7 +8,6 @@ categories:
   - poradniki
   - podatki
   - darowizna
-weight: 1
 ---
 ### Od zawsze najlepszą inwestycją jest WIEDZA!
 

@@ -16,21 +16,6 @@ theme = "PaperMod"
     linkFullImages = true
     
 [[menu.main]]
-    name = "YouTube"
-    url = "https://www.youtube.com/@audycjecompl"
-    weight = 1
-
-[[menu.main]]
-    name = "Apple Podcast"
-    url = "https://podcasts.apple.com/us/podcast/fundacja-więcej-mądrości/id1759615186"
-    weight = 2
-
-[[menu.main]]
-    name = "Spotify"
-    url = "https://open.spotify.com/show/08FcBlirC3jK86DzNfVC83"
-    weight = 3  
-
-[[menu.main]]
     name = "Słowa Kluczowe"
     url = "/tags/"
     weight = 4

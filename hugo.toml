@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params]
     showReadingTime = true
     showBreadCrumbs = true
-    showPostNavLInks = true
+    showPostNavLInks = false
     showShareButtons = true
 
 [params.homeInfoParams]

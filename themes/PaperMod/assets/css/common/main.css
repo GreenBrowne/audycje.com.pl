@@ -81,3 +81,18 @@ pre:hover .copy-code {
       /* Dostosowanie dla mniejszych ekranów */
     }
   }
+
+/* Styl dla przycisku logowania */
+button.login-btn {
+  background-color: #231F20; /* Czarny kolor tła */
+  color: white; /* Biała czcionka */
+  border: none; /* Bez obramowania */
+  border-radius: 8px; /* Zaokrąglone kąty */
+  padding: 0px 10px; /* Wewnętrzne odstępy (góra-dół, lewo-prawo) */
+  cursor: pointer; /* Kursor zmienia się na wskaźnik */
+  transition: background-color 0.3s; /* Płynne przejście koloru tła */
+}
+
+button.login-btn:hover {
+  background-color: #4e4e4e; /* Ciemniejszy odcień czerni na hover */
+}

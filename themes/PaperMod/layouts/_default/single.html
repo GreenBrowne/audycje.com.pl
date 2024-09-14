@@ -27,13 +27,56 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{- if .Content }}
+  {{ if .Params.protected }}
+  <!-- Sekcja chroniona -->
+  <div id="protected-content">
+    <p>Treść dostępna tylko dla zalogowanych użytkowników.</p>
+    <button onclick="netlifyIdentity.open()">Zaloguj się</button>
+  </div>
+
+  <!-- Treść chroniona, ukryta dla niezalogowanych -->
+  <div id="post-content" style="display:none;">
+    <h1>{{ .Title }}</h1>
+    <div>{{ .Content | safeHTML }}</div>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      if (typeof netlifyIdentity !== 'undefined') {
+
+        // Funkcja sprawdzająca, czy użytkownik jest zalogowany
+        function checkLogin() {
+          const user = netlifyIdentity.currentUser();
+
+          if (user) {
+            // Użytkownik jest zalogowany - pokaż chronioną treść
+            document.getElementById('protected-content').style.display = 'none';
+            document.getElementById('post-content').style.display = 'block';
+          } else {
+            // Użytkownik nie jest zalogowany - pokaż komunikat logowania
+            document.getElementById('protected-content').style.display = 'block';
+            document.getElementById('post-content').style.display = 'none';
+          }
+        }
+
+        // Monitoruj logowanie i wylogowanie
+        netlifyIdentity.on('login', checkLogin);
+        netlifyIdentity.on('logout', checkLogin);
+
+        // Sprawdź natychmiastowy stan logowania
+        checkLogin();
+      }
+    });
+  </script>
+
+  {{ else }}
+  <!-- Treść ogólnodostępna -->
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
-  {{- end }}
+  {{ end }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -50,9 +93,6 @@
     {{- end }}
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
 </article>
 
-{{- end }}{{/* end main */}}
+{{- end }}

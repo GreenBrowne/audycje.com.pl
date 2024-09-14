@@ -1,4 +1,5 @@
 ---
+protected: true
 draft: true
 title: 'Tytuł (Inne Radio, 18 maj 2024)'
 date: '2024-05-18T10:13:00+01:00'

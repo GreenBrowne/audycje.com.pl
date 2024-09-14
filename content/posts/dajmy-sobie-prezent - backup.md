@@ -1,4 +1,5 @@
 ---
+protected: true
 draft: true
 layout: blog
 title: Dajmy sobie prezent!

@@ -1,5 +1,5 @@
 ---
-protected: true
+
 layout: blog
 title: '"Pisze do Ciebie numer 889 739 934? Uważaj! To oszustwo"'
 date: '2023-11-22T08:56:25+01:00'

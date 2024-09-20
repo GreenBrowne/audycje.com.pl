@@ -1,5 +1,5 @@
 ---
-protected: true
+
 layout: blog
 title: Ochrona przed powszechnymi oszustwami i metody skutecznego reagowania.
 date: '2023-11-09T12:50:19+01:00'

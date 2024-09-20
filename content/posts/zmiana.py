@@ -4,8 +4,8 @@ import os
 directory = 'C:\\Users\\srcj\\Desktop\\audycje.com.pl\\content\\posts\\'
 
 # Fragmenty do zamiany
-old_fragment = 'https://audycje.com.pl/posts/wsparcieee/'
-new_fragment = 'https://audycje.com.pl/posts/wsparcie/'
+old_fragment = 'protected: true'
+new_fragment = ''
 
 # Lista do przechowywania nazw zmienionych plików
 changed_files = []

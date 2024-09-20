@@ -1,5 +1,5 @@
 ---
-protected: true
+
 title: 'AJ AJ AI (Inne Radio, 7 września 2024)'
 date: '2024-09-14T06:13:00+01:00'
 draft: true

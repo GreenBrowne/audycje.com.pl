@@ -9,7 +9,7 @@ categories:
 
 ## Metody wsparcia Fundacji
 
-**O możliwości wsparcia działalności Fundacji oraz o uwzględnieniu darowizny w rozliczeniu podatkowym piszemy więcej tutaj - [Wsparcie fundacji]()**
+**O możliwości wsparcia działalności Fundacji oraz o uwzględnieniu darowizny w rozliczeniu podatkowym piszemy więcej tutaj - [Wsparcie fundacji](https://audycje.com.pl/posts/wsparcie/)**
 
 <br>
 

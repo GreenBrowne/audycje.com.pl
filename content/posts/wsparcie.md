@@ -21,7 +21,7 @@ Dzięki temu możesz odzyskać część środków przeznaczonych na podatki i je
 
 Możliwość odliczenia darowizny od podatku dotyczy zarówno osób prywatnych, jak i prowadzących indywidualną działalność gospodarczą.
 
-**Przykładową darowiznę przedstawiamy dokładniej tutaj - [Przykładowa darowizna]()** 
+**Przykładową darowiznę przedstawiamy dokładniej tutaj - [Przykładowa darowizna](https://audycje.com.pl/posts/darowizna/)** 
 
 <br>
 

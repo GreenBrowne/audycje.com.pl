@@ -1,5 +1,5 @@
 ---
-title: Wsparcie Fundacji
+title: Darowizna
 date: '2023-12-02T07:29:00+01:00'
 categories:
   - poradniki
@@ -7,32 +7,34 @@ categories:
   - darowizna
 ---
 
-## Zdecyduj, na co idą Twoje podatki!
+## Metody wsparcia Fundacji
 
-Obecnie obowiązujące przepisy umożliwiają ciekawe wsparcie naszej pracy. Przekazując darowiznę m.in. na działalność organizacji pozarządowych, fundacji lub kościołów, można pomniejszyć kwotę opodatkowania o wartość tej darowizny.
-
-Pieniądze wpłacone na cele statutowe Fundacji „Więcej Mądrości” kwalifikują się jako taka darowizna. Umożliwia to uzyskanie zwrotu części pieniędzy podczas corocznego rozliczenia podatku.
-
-Dzięki temu możesz odzyskać część środków przeznaczonych na podatki i jednocześnie wesprzeć rozwój wartościowych inicjatyw.
+**O możliwości wsparcia działalności Fundacji oraz o uwzględnieniu darowizny w rozliczeniu podatkowym piszemy więcej tutaj - [Wsparcie fundacji]()**
 
 <br>
 
-## Jak przekazać darowiznę wybranej organizacji?
+## Przykładowa darowizna
 
-Możliwość odliczenia darowizny od podatku dotyczy zarówno osób prywatnych, jak i prowadzących indywidualną działalność gospodarczą.
+[Kalkulator dla filantropów - ceeimpact.org](https://ceeimpact.org/calculator-pl/)  
 
-**Przykładową darowiznę przedstawiamy dokładniej tutaj - [Przykładowa darowizna]()** 
+Przy wynagrodzeniu miesięcznym na poziomie 5 000 PLN brutto, dochód roczny wynosi 60 000 PLN brutto. 
+
+W przypadku rozliczania podatku dochodowego od osób prywatnych PIT, daje to kwotę maksymalnie 3 600 PLN **(6% dochodu)**, o którą można pomniejszyć podstawę opodatkowania.
+
+Oznacza to, że zarabiając 5 000 PLN brutto miesięcznie i wpłacając darowiznę na m.in. działalnośc statutową Fundacji Więcej Mądrości, można "odzyskać" do 12% wpłaconej kwoty w postaci zwrotu podatku.
+
+W przypadku osób rozliczających podatek od osób prawnych CIT lub PIT w drugim progu - 32%, odzyskana "kwota" wzrasta. 
 
 <br>
 
-### Warunki formalne:
+## Warunki formalne
 
 1. Darowiznę należy wpłacić na konto bankowe organizacji.
 2. **Opis przelewu powinien być precyzyjny.** Wskazane jest zaznaczenie celu darowizny (np. zgodnego ze Statutem organizacji), aby uniknąć potencjalnych problemów ze strony Urzędu Skarbowego.
 
 **Maksymalna kwota odliczenia:** do 6% od dochodu.
 
-**Z kwoty wsparcia można "odzyskać" w postaci zwrotu podatku jego równowartość - w zależności od progu jest to 12% lub 32% w przypadku podatku PIT**
+**Z kwoty wsparcia można "odzyskać" w postaci zwrotu podatku jego równowartość - w zależności od progu jest to 12% lub 32% w przypadku podatku PIT oraz 9% i 19% w przypakdu CIT**
 
 <br>
 

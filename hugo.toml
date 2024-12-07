@@ -5,16 +5,23 @@ theme = "PaperMod"
 
 [params]
     showReadingTime = true
-    showBreadCrumbs = true
+    showBreadCrumbs = false
     showPostNavLInks = false
     showShareButtons = true
+    disableAnchoredHeadings = true
+    
 
 [params.homeInfoParams]
     Title= ""
 
 [params.cover]
     linkFullImages = true
-    
+
+[[menu.main]]
+    name = "Wsparcie"
+    url = "/posts/wsparcie"
+    weight = 3
+
 [[menu.main]]
     name = "Słowa Kluczowe"
     url = "/tags/"

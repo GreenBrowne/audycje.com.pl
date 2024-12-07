@@ -15,7 +15,7 @@ Pieniądze wpłacone na cele statutowe Fundacji „Więcej Mądrości” kwalifi
 
 Dzięki temu możesz odzyskać część środków przeznaczonych na podatki i jednocześnie wesprzeć rozwój wartościowych inicjatyw.
 
-<br>
+---
 
 ## Jak przekazać darowiznę wybranej organizacji?
 
@@ -23,7 +23,7 @@ Możliwość odliczenia darowizny od podatku dotyczy zarówno osób prywatnych, 
 
 **Przykładową darowiznę przedstawiamy dokładniej tutaj - [Przykładowa darowizna](https://audycje.com.pl/posts/darowizna/)** 
 
-<br>
+---
 
 ### Warunki formalne:
 
@@ -34,7 +34,7 @@ Możliwość odliczenia darowizny od podatku dotyczy zarówno osób prywatnych, 
 
 **Z kwoty wsparcia można "odzyskać" w postaci zwrotu podatku jego równowartość - w zależności od progu jest to 12% lub 32% w przypadku podatku PIT**
 
-<br>
+---
 
 ## Dane Fundacji
 
@@ -49,7 +49,7 @@ Możliwość odliczenia darowizny od podatku dotyczy zarówno osób prywatnych, 
 Po dokonaniu darowizny prosimy o kontakt mailowy pod adresem **kontakt@audycje.com.pl**.  
 W mailu podaj swoje **imię i nazwisko** lub **numer kontaktowy**, aby nasi współpracownicy mogli się z Tobą skontaktować.
 
-<br>
+---
 
 ## Jak wypełnić PIT, aby skorzystać z ulgi podatkowej?
 
@@ -70,7 +70,7 @@ Do zeznania podatkowego należy dołączyć załącznik **PIT/O**, który wypeł
 ### Ważne informacje:
 Jeśli darowiznę przekazano za pomocą płatności internetowej, należy dostarczyć zarówno dowód zapłaty z banku, jak i potwierdzenie darowizny wystawione przez Fundację. Jest to konieczne, ponieważ na dowodzie wpłaty widnieją dane pośrednika płatności, a nie Fundacji.
 
-<br>
+---
 
 ## Podstawa prawna i dodatkowe informacje
 

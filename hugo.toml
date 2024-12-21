@@ -7,9 +7,8 @@ theme = "PaperMod"
     showReadingTime = true
     showBreadCrumbs = false
     showPostNavLInks = false
-    showShareButtons = true
+    showShareButtons = false
     disableAnchoredHeadings = true
-    
 
 [params.homeInfoParams]
     Title= ""

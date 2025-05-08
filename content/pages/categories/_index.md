@@ -1,6 +1,0 @@
-+++
-title = "Kategorie"
-
-url = "/categories"
-
-+++
